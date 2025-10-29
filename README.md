@@ -40,5 +40,5 @@ To understand sales performance across regions, products, and time periods, and 
 ## 📬 Contact
 👤 *Janaydheeraj*  
 📧 Javvajijanaydheeraj@gmail.com 
-💼 linkedin.com/in/janaydheeraj
+💼 https://www.linkedin.com/in/janaydheeraj
 
