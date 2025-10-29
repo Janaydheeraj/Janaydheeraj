@@ -1,16 +1,44 @@
-## Hi there 👋
+# 📊 Sales Data Visualization
 
-<!--
-**Janaydheeraj/Janaydheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project focuses on analyzing and visualizing sales data to uncover key business insights using *Power BI* and *Tableau*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Project Objective
+To understand sales performance across regions, products, and time periods, and to create interactive dashboards for better decision-making.
+
+---
+
+## 🧩 Tools & Technologies Used
+- *Power BI* – for building dashboards and visual reports  
+- *Tableau* – for interactive data visualizations  
+- *Excel / CSV* – for data cleaning and preparation  
+
+---
+
+## 📈 Key Insights
+- Identified *top-performing regions* and *best-selling products*  
+- Found *sales trends* across months and years  
+- Highlighted *underperforming products* to optimize inventory  
+- Built an interactive dashboard to track *revenue, profit, and quantity sold*
+
+---
+
+## 🧠 Skills Demonstrated
+- Data cleaning and transformation  
+- Dashboard design and storytelling with visuals  
+- Business intelligence and analytical thinking  
+
+---
+
+## 🏁 Results
+- Created 3 dashboards showing total sales, regional performance, and category trends  
+- Helped visualize actionable business insights for management  
+
+---
+
+## 📬 Contact
+👤 *Janaydheeraj*  
+📧 Javvajijanaydheeraj@gmail.com 
+💼 www.linkedin.com/in/janaydheeaj
+
